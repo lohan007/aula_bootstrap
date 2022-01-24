@@ -1,0 +1,12 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img-salas {
+    border-radius: 15%;
+}
